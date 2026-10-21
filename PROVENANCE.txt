@@ -2,7 +2,8 @@ Le Défi Urbain — Orange Traffic
 Faithful visual adaptation of Le Défi Boréal V3.0.1.
 Source: https://github.com/lamaisondonut/minijeux
 Reference commit: 106dfa829d40ffd1a747c5a9b188c01351ea71ae
-Physics and original character atlas/animations preserved.
+Physics, layout, animation states, frame order and timing preserved.
+Worker appearance is a referenced image_gen edit of the original 24-pose character atlas, with adjusted frame bounds.
 New city panoramas generated with image_gen for this adaptation; city renderer and visual assets authored with Codex assistance.
 No external runtime library, participant data, private platform API or prizes.
 Rights to source artwork and client marks remain subject to owner authorization; no broad license is asserted.
