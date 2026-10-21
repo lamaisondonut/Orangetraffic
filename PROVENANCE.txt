@@ -4,6 +4,10 @@ Source: https://github.com/lamaisondonut/minijeux
 Reference commit: 106dfa829d40ffd1a747c5a9b188c01351ea71ae
 Physics, layout, animation states, frame order and timing preserved.
 Worker appearance is a referenced image_gen edit of the original 24-pose character atlas, with adjusted frame bounds.
+Face personalization brief: a stylized face based on the user-supplied portrait, retaining its glasses, short goatee and hair; remove all tattoos across the 24 poses while preserving construction clothing and animation.
+This face edit is original to the adaptation; the base character atlas comes from minijeux. The reference portrait itself is not embedded in the game.
 New city panoramas generated with image_gen for this adaptation; city renderer and visual assets authored with Codex assistance.
+The public site presents real game screenshots and proposed character powers; these powers are not active in the demonstration.
+Green collectibles retain bonus scoring; red collectibles subtract 50 points without ending the run.
 No external runtime library, participant data, private platform API or prizes.
 Rights to source artwork and client marks remain subject to owner authorization; no broad license is asserted.
